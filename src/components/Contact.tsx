@@ -32,7 +32,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/dinesh-kumar-429968200/
+              href="https://www.linkedin.com/in/dinesh-kumar-429968200/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -48,7 +48,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/ft.will.of.d/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -58,7 +58,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Dinesh Kumar
+              Designed and Developed <br/> by <span>Dinesh Kumar </span>  
             </h2>
             <h5>
               <MdCopyright /> 2026 Dinesh Kumar. All rights reserved.
